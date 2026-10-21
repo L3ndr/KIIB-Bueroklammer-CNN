@@ -1,0 +1,128 @@
+[
+    {
+        "bild": "bild_1.jpg",
+        "klammer_count": {
+            "gelbe": 3,
+            "rote": 2,
+            "orange": 3,
+            "gruene": 2,
+            "blaue": 5,
+            "pinke": 1,
+            "total": 16
+        },
+        "klammer_data": [
+            {
+                "color": "gelbe",
+                "x_min": 353,
+                "y_min": 0,
+                "x_max": 406,
+                "y_max": 53
+            },
+            {
+                "color": "rote",
+                "x_min": 230,
+                "y_min": 197,
+                "x_max": 283,
+                "y_max": 250
+            },
+            {
+                "color": "orange",
+                "x_min": 286,
+                "y_min": 26,
+                "x_max": 329,
+                "y_max": 69
+            },
+            {
+                "color": "gelbe",
+                "x_min": 196,
+                "y_min": 26,
+                "x_max": 251,
+                "y_max": 81
+            },
+            {
+                "color": "gruene",
+                "x_min": 306,
+                "y_min": 18,
+                "x_max": 356,
+                "y_max": 68
+            },
+            {
+                "color": "blaue",
+                "x_min": 234,
+                "y_min": 10,
+                "x_max": 296,
+                "y_max": 72
+            },
+            {
+                "color": "blaue",
+                "x_min": 6,
+                "y_min": 76,
+                "x_max": 67,
+                "y_max": 137
+            },
+            {
+                "color": "pinke",
+                "x_min": 122,
+                "y_min": 128,
+                "x_max": 181,
+                "y_max": 187
+            },
+            {
+                "color": "gruene",
+                "x_min": 0,
+                "y_min": 75,
+                "x_max": 52,
+                "y_max": 127
+            },
+            {
+                "color": "orange",
+                "x_min": 363,
+                "y_min": 65,
+                "x_max": 418,
+                "y_max": 120
+            },
+            {
+                "color": "rote",
+                "x_min": 287,
+                "y_min": 252,
+                "x_max": 334,
+                "y_max": 299
+            },
+            {
+                "color": "blaue",
+                "x_min": 103,
+                "y_min": 206,
+                "x_max": 171,
+                "y_max": 274
+            },
+            {
+                "color": "blaue",
+                "x_min": 115,
+                "y_min": 180,
+                "x_max": 159,
+                "y_max": 224
+            },
+            {
+                "color": "gelbe",
+                "x_min": 322,
+                "y_min": 31,
+                "x_max": 389,
+                "y_max": 98
+            },
+            {
+                "color": "orange",
+                "x_min": 132,
+                "y_min": 67,
+                "x_max": 193,
+                "y_max": 128
+            },
+            {
+                "color": "blaue",
+                "x_min": 42,
+                "y_min": 94,
+                "x_max": 106,
+                "y_max": 158
+            }
+        ]
+    }
+]

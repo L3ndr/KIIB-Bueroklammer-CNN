@@ -1,0 +1,25 @@
+# Generierte Datensätze (lassen sich mit 1_create_dataset.py / 2_learning.py neu erzeugen)
+raw_dataset/
+augmented_dataset/
+
+# Trainierte Modelle
+*.keras
+*.h5
+
+# Eigenes Testbild für 3_predict.py
+bild.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
