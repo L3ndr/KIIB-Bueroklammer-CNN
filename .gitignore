@@ -1,13 +1,15 @@
-# Generierte Datensätze (lassen sich mit 1_create_dataset.py / 2_learning.py neu erzeugen)
-raw_dataset/
-augmented_dataset/
+# Generierte Daten (lassen sich mit "generate" / "train" neu erzeugen)
+data/raw_dataset/
+data/augmented_dataset/
+data/models/
+data/output/
+
+# Eigenes Testbild für "predict"
+data/bild.jpg
 
 # Trainierte Modelle
 *.keras
 *.h5
-
-# Eigenes Testbild für 3_predict.py
-bild.jpg
 
 # Python
 __pycache__/
